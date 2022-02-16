@@ -1,0 +1,40 @@
+.bloque1{
+    display: block;
+    height: 150px;
+    background-color: green;
+}
+
+.bloque2{
+    display: inline-block;
+    width: 25%;
+    height: 300px;
+    background-color: blue;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.bloque3{
+    display: inline-block;
+    width: 65%;
+    height: 400px;
+    background-color: red;
+    vertical-align: top;
+    margin: 10px;
+    
+}
+
+div .bloque4 {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+div .bloque5 {
+    display: block;
+    height: 100px;
+    width: 400px;
+    background-color:blueviolet;
+    margin: 10px;
+}
